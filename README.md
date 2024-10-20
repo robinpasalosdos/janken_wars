@@ -1,6 +1,4 @@
 ### Janken Wars Gameplay
 
-<video width="600" height="400" controls>
-  <source src="janken.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/1bbb793c-2a95-45d7-afb3-078313ca582f
+
